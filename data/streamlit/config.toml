@@ -1,0 +1,15 @@
+[theme]
+# Deep midnight canvas background matching the preview tone
+backgroundColor = "#070913"
+
+# Slightly lighter slate background for text input areas and containers
+secondaryBackgroundColor = "#121626"
+
+# Pure white text coloring for primary headings and text labels
+textColor = "#FFFFFF"
+
+# Vibrant crimson red focus color for active buttons and sliders
+primaryColor = "#B80F20"
+
+# Forces Streamlit to ignore system dark/light preferences and use your theme
+base = "dark"

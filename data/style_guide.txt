@@ -1,0 +1,3 @@
+[RULE 01] Python functions must include clear type hinting for all arguments and return values.
+[RULE 02] Do not use generic 'except: pass' blocks. Always handle explicit exceptions and log the error message.
+[RULE 03] Variables containing sensitive data (like passwords, keys, tokens) must never be hardcoded; they must be retrieved from environment variables.
